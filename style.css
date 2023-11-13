@@ -1,0 +1,12 @@
+#btn{
+    width: fit-content;
+    color: white;
+    background: black;
+    border: none;
+    border-radius: 12px;
+    height: fit-content;
+
+}
+.hide-me{
+    visibility: hidden;
+}
